@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<World>
+  <Weapon>
+    <name>Machete</name>
+    <symbol>/</symbol>
+    <attackBonus>4</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Machete</name>
+    <symbol>/</symbol>
+    <attackBonus>4</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Machete</name>
+    <symbol>/</symbol>
+    <attackBonus>4</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Machete</name>
+    <symbol>/</symbol>
+    <attackBonus>4</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Machete</name>
+    <symbol>/</symbol>
+    <attackBonus>4</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Axe</name>
+    <symbol>/</symbol>
+    <attackBonus>8</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Axe</name>
+    <symbol>/</symbol>
+    <attackBonus>8</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Axe</name>
+    <symbol>/</symbol>
+    <attackBonus>8</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Katana</name>
+    <symbol>/</symbol>
+    <attackBonus>11</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Katana</name>
+    <symbol>/</symbol>
+    <attackBonus>11</attackBonus>
+  </Weapon>
+  <Weapon>
+    <name>Chainsaw</name>
+    <symbol>/</symbol>
+    <attackBonus>15</attackBonus>
+  </Weapon>
+  <Armor>
+    <name>Lumberjack Outfit</name>
+    <symbol>A</symbol>
+    <defenseBonus>10</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Lumberjack Outfit</name>
+    <symbol>A</symbol>
+    <defenseBonus>10</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Lumberjack Outfit</name>
+    <symbol>A</symbol>
+    <defenseBonus>10</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Lumberjack Outfit</name>
+    <symbol>A</symbol>
+    <defenseBonus>10</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Lumberjack Outfit</name>
+    <symbol>A</symbol>
+    <defenseBonus>10</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Hunter's Camo</name>
+    <symbol>A</symbol>
+    <defenseBonus>15</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Hunter's Camo</name>
+    <symbol>A</symbol>
+    <defenseBonus>15</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Hunter's Camo</name>
+    <symbol>A</symbol>
+    <defenseBonus>15</defenseBonus>
+  </Armor>
+  <Armor>
+    <name>Kevlar</name>
+    <symbol>A</symbol>
+    <defenseBonus>20</defenseBonus>
+  </Armor>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>First Aid Kit</name>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+    <heal>4</heal>
+  </Consumable>
+  <Consumable>
+    <name>Med Pack</name>
+    <symbol>$</symbol>
+    <quantity>1</quantity>
+    <heal>2</heal>
+  </Consumable>
+
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Cub</name>
+    <symbol>^</symbol>
+    <health>15</health>
+    <maxhealth>15</maxhealth>
+    <hostile>false</hostile>
+    <attack>7</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Cub</name>
+    <symbol>^</symbol>
+    <health>15</health>
+    <maxhealth>15</maxhealth>
+    <hostile>false</hostile>
+    <attack>7</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Cub</name>
+    <symbol>^</symbol>
+    <health>15</health>
+    <maxhealth>15</maxhealth>
+    <hostile>false</hostile>
+    <attack>7</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Cub</name>
+    <symbol>^</symbol>
+    <health>15</health>
+    <maxhealth>15</maxhealth>
+    <hostile>false</hostile>
+    <attack>7</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Cub</name>
+    <symbol>^</symbol>
+    <health>15</health>
+    <maxhealth>15</maxhealth>
+    <hostile>false</hostile>
+    <attack>7</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Mom</name>
+    <symbol>%</symbol>
+    <health>30</health>
+    <maxhealth>30</maxhealth>
+    <hostile>true</hostile>
+    <attack>12</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Mom</name>
+    <symbol>%</symbol>
+    <health>30</health>
+    <maxhealth>30</maxhealth>
+    <hostile>true</hostile>
+    <attack>12</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Mom</name>
+    <symbol>%</symbol>
+    <health>30</health>
+    <maxhealth>30</maxhealth>
+    <hostile>true</hostile>
+    <attack>12</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Mom</name>
+    <symbol>%</symbol>
+    <health>30</health>
+    <maxhealth>30</maxhealth>
+    <hostile>true</hostile>
+    <attack>12</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Hibernating</name>
+    <symbol>?</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>false</hostile>
+    <attack>11</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Hibernating</name>
+    <symbol>?</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>false</hostile>
+    <attack>11</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear Hibernating</name>
+    <symbol>?</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>false</hostile>
+    <attack>11</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Grizzly Bear</name>
+    <symbol>G</symbol>
+    <health>60</health>
+    <maxhealth>60</maxhealth>
+    <hostile>true</hostile>
+    <attack>18</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  <Creature>
+    <name>Zombie Bear</name>
+    <symbol>&</symbol>
+    <health>20</health>
+    <maxhealth>20</maxhealth>
+    <hostile>true</hostile>
+    <attack>10</attack>
+  </Creature>
+  </World>
